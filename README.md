@@ -16,4 +16,4 @@ To install and use http-server, go to: [http-server](https://www.npmjs.com/packa
 4. To learn about configuring cert.pem and key.pem, go to : [SSL Certificates](https://galeracluster.com/library/documentation/ssl-cert.html)
 5. Copy one of the URL and paste in your browser window.
 6. Click on empty-example, and the JS script should start running.
-7. Scroll down, and click on "Play" button. Music should start playing, and visual animation should show :) Enjoy
+7. Click the canvas. Music should start playing, and visual animation should show :) Enjoy
